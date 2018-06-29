@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Razzle x After.js
 
 ## How to use
@@ -19,3 +20,7 @@ yarn start
 ## Idea behind the example
 
 This is a basic, bare-bones example of how to use After.js and Razzle.
+=======
+# AfterJs-redux-saga
+An example afterjs with redux saga
+>>>>>>> 2461e6d3460683629f57db3faaec8991e46571c4
